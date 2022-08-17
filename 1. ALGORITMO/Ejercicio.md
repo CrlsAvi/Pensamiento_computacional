@@ -1,12 +1,12 @@
 ### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
-
-    TU RESPUETA AQUI
-
-
+inicio
+limpiar tapete
+preparar herramientas
+poner guates
 
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
-
-    TU RESPUESTA AQUI
+inicio
+declarar (fecha de nacimiento 
 
 
 
