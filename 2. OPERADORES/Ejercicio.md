@@ -11,9 +11,13 @@ X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
       X = 17 - (- 7)
       X = 24
 
-X = (5 + 2 * 4) – (25 +. 5) * 2
+X = (5 + 2 * 4) – (25 + .5) * 2
 
-      TU RESPUESTA AQUI
+     x = (7*4) - (25 + .5) * 2
+     x = 28 - 25.5 * 2
+     x = 28 - 51.0
+     x = -38
+      
 
 X = (100/5^2 + 1) + 11 * 3
 
@@ -51,8 +55,8 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) = true
+2) (6! =6) && (12>22)) = false
+3) ¬ (128<145 && 12>9) = true
+4) “Daniela”< >”DANIELA” = 
+5) 10*20< >210 = 
