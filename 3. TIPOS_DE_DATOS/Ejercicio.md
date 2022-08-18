@@ -2,18 +2,18 @@
 Vamos a identificar los siguientes tipos de datos
 
 NUMEROS ENTEROS : 
-
-      TU RESPUESTA AQUI
+      
+      integers  
 
 NUMEROS DECIMALES: 
 
-      TU RESPUESTA AQUI
+      float 
 
 CARACTER : 
 
-      TU RESPUESTA AQUI
+     charge
 
 CADENA DE CARACTERES : 
 
-      TU RESPUESTA AQUI
+    strings 
     
