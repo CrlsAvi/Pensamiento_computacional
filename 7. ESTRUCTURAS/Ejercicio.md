@@ -12,8 +12,9 @@
               mostrar (num1 "es mayor a" num2)
               sino mostrar (num2 "es mayor a" num1)
         8.-fin      
-        
-        ![image](https://user-images.githubusercontent.com/111439863/186460012-dcfe7043-d52d-4d27-a93b-b036af7c61e5.png)
+  
+![image](https://user-images.githubusercontent.com/111439863/186460477-4f6d436e-ccb0-4f33-b3c5-f1c733a7e02a.png)
+
 
         
         
