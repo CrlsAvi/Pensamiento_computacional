@@ -12,7 +12,9 @@
               mostrar (num1 "es mayor a" num2)
               sino mostrar (num2 "es mayor a" num1)
         8.-fin      
-              
+        
+        ![image](https://user-images.githubusercontent.com/111439863/186460012-dcfe7043-d52d-4d27-a93b-b036af7c61e5.png)
+
         
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
